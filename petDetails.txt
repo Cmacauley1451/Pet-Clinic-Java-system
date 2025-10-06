@@ -1,0 +1,4 @@
+Fido,4,brown with white spots,7.0,yorkie,dog
+Mittens,9,White and brown,15.0,Tabby,cat
+Maxi,5,tan,4.0,Chihuahua,dog
+Bambi,9,grey,12.0,Yorkie,dog

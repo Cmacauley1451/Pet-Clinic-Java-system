@@ -1,0 +1,10 @@
+
+
+		University Pet Clinic - Pet Report
+------------------------------------------
+Total number of dogs registered: 1
+Total number of cats registered: 0
+Total pets in clinic: 1
+Most common dog color: tan
+Most common cat color: N/A
+------------------------------------------

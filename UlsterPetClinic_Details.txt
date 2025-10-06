@@ -1,0 +1,9 @@
+
+		Ulster Pet clinic - Pet Report
+------------------------------------------
+Total number of dogs registered: 3
+Total number of cats registered: 1
+Total pets in clinic: 4
+Most common dog color: brown
+Most common cat color: white and brown
+------------------------------------------

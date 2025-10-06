@@ -1,0 +1,4 @@
+Joey,12,brown,20.0,husky,dog
+jimbob joe,13,red,20.2,persian,dog
+jimjoe,11,blue,12.0,blueboy,dog
+Mittens,9,white and brown,14.0,tabby,cat
